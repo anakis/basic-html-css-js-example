@@ -1,0 +1,15 @@
+{
+  "name": "basic-html-css-js-example",
+  "version": "1.0.0",
+  "description": "Basic example of HTML, CSS, js project for Horys H1 mentorship",
+  "main": "index.js",
+  "repository": "https://github.com/anakis/basic-html-css-js-example.git",
+  "author": "Thiago Nascimento <thiag.g3@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "serve src"
+  },
+  "dependencies": {
+    "serve": "^13.0.2"
+  }
+}
